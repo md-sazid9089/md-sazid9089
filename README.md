@@ -1,4 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github.gif" width="100%" alt="Header GIF">
+</div>
+
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 I'm a passionate developer and Machine Learning enthusiast currently pursuing Computer Science and Engineering at Ahsanullah University of Science and Technology. With expertise in full-stack development and a deep fascination with AI/ML technologies, I love building innovative solutions that make a real impact. Whether it's crafting seamless user experiences or diving into intelligent systems, I'm constantly exploring new technologies and pushing the boundaries of what's possible. Always open to collaboration and exciting opportunities in software development and artificial intelligence.<br><br>
 
 
