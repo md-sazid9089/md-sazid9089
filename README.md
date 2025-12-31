@@ -6,15 +6,28 @@
   <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
 
+<h1 align="center">Hi 👋, I'm Syed Mohammed Sazid Ullah</h1>
+<h3 align="center">Web Developer | Machine Learning Enthusiast</h3>
+
 # 💫 About Me:
 
 I'm a passionate developer and Machine Learning enthusiast currently pursuing Computer Science and Engineering at Ahsanullah University of Science and Technology. With expertise in full-stack development and a deep fascination with AI/ML technologies, I love building innovative solutions that make a real impact. Whether it's crafting seamless user experiences or diving into intelligent systems, I'm constantly exploring new technologies and pushing the boundaries of what's possible. Always open to collaboration and exciting opportunities in software development and artificial intelligence.<br><br>
+
+📧 **Email:** mdsazid9089@gmail.com  
+📱 **Contact:** +880 1645016880
+
+## 🚀 Current Activities:
+- 🔭 Working on full-stack web development projects with React and Next.js
+- 🌱 Learning advanced Machine Learning algorithms and Deep Learning frameworks
+- 🤝 Open to collaborating on innovative web applications and AI/ML projects
+- 💡 Exploring the intersection of web technologies and artificial intelligence
+- 📚 Continuously expanding my knowledge in modern software development practices
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Md Sazid)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-mohammed-sazid-ullah-4556372b5/)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sazid.cse.20230104062@aust.edu)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdsazid9089@gmail.com)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
